@@ -1,6 +1,6 @@
 name: rubber_app_bar
 description: "A Flutter package that provides a custom widget for having a rubber app bar that stretches and contracts while scrolling."
-version: 1.0.6
+version: 1.0.7
 homepage: https://github.com/i-3mr/rubber_app_bar.git
 repository: https://github.com/i-3mr/rubber_app_bar.git
 

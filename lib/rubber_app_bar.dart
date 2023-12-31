@@ -153,7 +153,7 @@ class _RubberAppBarState extends State<RubberAppBar> {
         duration: _isExpanded ? Duration.zero : widget.transitionDuration,
         curve: widget.transitionCurve,
         tween: Tween<double>(
-          begin: _currentExtent,
+          begin: _currentExtent + widget.height,
           end: _currentExtent + widget.height,
         ),
         builder: (BuildContext context, double value, Widget? child) {
