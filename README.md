@@ -196,9 +196,9 @@ Scaffold(
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:rubber_app_bar/growing_container.dart';
+import 'package:rubber_app_bar/growing_widget.dart';
 import 'package:rubber_app_bar/rubber_app_bar.dart';
-import 'package:rubber_app_bar/scale_up_container.dart';
+import 'package:rubber_app_bar/scale_up_widget.dart';
 
 void main() {
   runApp(const MyApp());
